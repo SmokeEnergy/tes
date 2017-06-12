@@ -83,9 +83,9 @@ ______________________
 ## Membres du staff
 
 **Cofondateur N3MTV**  
-- **[Couga]**  
-- **[Corel]**  
-- **[Hunters]**  
+> - **[Couga]**  
+> - **[Corel]**  
+> - **[Hunters]**  
 
 > **Développeur**  
 > - **[Charli62128]**  
