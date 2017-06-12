@@ -82,12 +82,12 @@ ______________________
 
 ## Membres du staff
 
-**Cofondateur N3MTV**  
+**Cofondateur N3MTV**
 > - **[Couga]**  
 > - **[Corel]**  
 > - **[Hunters]**  
 
-> **Développeur**  
+**Développeur**  
 > - **[Charli62128]**  
 > - **[Gabs]**  
 > - **[TheFoxeur]**  
@@ -98,7 +98,7 @@ ______________________
 > - **[Mavdol]**
 > - **[Atomik]**
 
-> **Moderateur**
+**Moderateur**
 > - **[soroshiya974]**  
 > - **[patagraso]**
 > - **[Morir]**
